@@ -1,0 +1,22 @@
+{"1.1.0",
+[{<<"epipe">>,{pkg,<<"epipe">>,<<"1.0.0">>},0},
+ {<<"erles">>,
+  {git,"git@github.com:anakryiko/erles.git",
+       {ref,"3ffa0c1291e1ef7afb5ba351c264414a55efc447"}},
+  0},
+ {<<"jsx">>,
+  {git,"https://github.com/talentdeficit/jsx.git",
+       {ref,"45ffea21a6863c58fb7da1f937e868916ff68b27"}},
+  1},
+ {<<"meck">>,
+  {git,"https://github.com/basho/meck.git",
+       {ref,"dde759050eff19a1a80fd854d7375174b191665d"}},
+  2},
+ {<<"protobuffs">>,
+  {git,"https://github.com/basho/erlang_protobuffs.git",
+       {ref,"43c549e6ccd4524245190a906bb4344039bd2995"}},
+  1}]}.
+[
+{pkg_hash,[
+ {<<"epipe">>, <<"9678D912C34B99DAD9C20C4582D393D8101ADFE96EBBE7AF33B42F6619C96688">>}]}
+].
